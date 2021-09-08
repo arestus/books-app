@@ -5802,11 +5802,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\BookAuthor\\BookAuthor.csproj",
+      "projectUniqueName": "D:\\SeptemberTraining\\Sep08\\gitcollabrate check\\BookAuthor.csproj",
       "projectName": "BookAuthor",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\BookAuthor\\BookAuthor.csproj",
+      "projectPath": "D:\\SeptemberTraining\\Sep08\\gitcollabrate check\\BookAuthor.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Desktop\\BookAuthor\\obj\\",
+      "outputPath": "D:\\SeptemberTraining\\Sep08\\gitcollabrate check\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

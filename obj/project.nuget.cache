@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DBvGmzY0Ux+OS8fTOCtwmX3UwxJNDbyL1KgI2/HjVxKq69dY70XWoX2cX6GfKrmzb9/fTcWCY9g8PQTbAw+kQg==",
+  "dgSpecHash": "gi6WjmSwzTtGpFTK/xeDPXOI0xUYLYg+XEfXaIBP/NercB8LYH1sf0vNpbHFT38Q5JdUGC3iqYxOyiizfO60rA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\BookAuthor\\BookAuthor.csproj",
+  "projectFilePath": "D:\\SeptemberTraining\\Sep08\\gitcollabrate check\\BookAuthor.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
